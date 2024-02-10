@@ -12,3 +12,4 @@
 /Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.pdb
 /Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.genruntimeconfig.cache
 /Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ref/ShiritoriGame.dll
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.sourcelink.json
