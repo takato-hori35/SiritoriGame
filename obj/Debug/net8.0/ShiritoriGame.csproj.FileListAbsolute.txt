@@ -1,0 +1,14 @@
+/Users/torakko35/mysystem/siritori/ShiritoriGame/bin/Debug/net8.0/ShiritoriGame
+/Users/torakko35/mysystem/siritori/ShiritoriGame/bin/Debug/net8.0/ShiritoriGame.deps.json
+/Users/torakko35/mysystem/siritori/ShiritoriGame/bin/Debug/net8.0/ShiritoriGame.runtimeconfig.json
+/Users/torakko35/mysystem/siritori/ShiritoriGame/bin/Debug/net8.0/ShiritoriGame.dll
+/Users/torakko35/mysystem/siritori/ShiritoriGame/bin/Debug/net8.0/ShiritoriGame.pdb
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.AssemblyInfoInputs.cache
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.AssemblyInfo.cs
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.csproj.CoreCompileInputs.cache
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.dll
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/refint/ShiritoriGame.dll
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.pdb
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ShiritoriGame.genruntimeconfig.cache
+/Users/torakko35/mysystem/siritori/ShiritoriGame/obj/Debug/net8.0/ref/ShiritoriGame.dll
